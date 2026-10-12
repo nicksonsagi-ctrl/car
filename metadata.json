@@ -1,0 +1,6 @@
+{
+  "name": "VELOCITY X - 3D Supercar Showroom",
+  "description": "Futuristic luxury 3D supercar showroom, interactive vehicle configurator, virtual test drive simulator, and hypercar collection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
